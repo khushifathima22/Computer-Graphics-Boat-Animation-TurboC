@@ -1,2 +1,3 @@
-# Computer-Graphics-Boat-Animation-TurboC
-Boat Animation Using Turbo C Graphics Library
+## Output
+
+![Boat Animation Output](WhatsApp%20Image.jpeg)
